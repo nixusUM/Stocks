@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="network_error">Проверьте подключение к интернету!</string>
+    <string name="body_error">Пустой контент!</string>
+    <string name="api_error">Ошибка api!</string>
+    <string name="refresh">Обновить</string>
+    <string name="stop">Остановить</string>
+    <string name="success_update">Данные обновились</string>
+</resources>

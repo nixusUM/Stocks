@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_padding">8dp</dimen>
+    <dimen name="content_size">11sp</dimen>
+    <dimen name="item_height">50dp</dimen>
+    <dimen name="item_margin">3dp</dimen>
+    <dimen name="logo_size">64dp</dimen>
+    <dimen name="logo_margin">8dp</dimen>
+</resources>
